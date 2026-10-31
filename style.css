@@ -1,0 +1,45 @@
+h2 {
+    margin: 10px;
+    color: #067543;
+}
+
+h4 {
+    color: blueviolet;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #cccccc;
+  margin: 15px ;
+}
+
+.list-item {
+    padding: 5px;
+}
+
+#map{
+    position:absolute;
+    top: 0;
+    bottom:0;
+    right:200px;
+    left:200px
+}
+
+#list-selected {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    overflow-y: auto;
+}
+
+#list-all {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    overflow-y: auto;
+}
